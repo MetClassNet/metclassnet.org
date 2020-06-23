@@ -1,3 +1,11 @@
+---
+title: "MetClassNet"
+output:
+  html_document:
+    theme: united
+    highlight: tango
+---
+
 ## Welcome to MetClassNet landing Pages
 
 You can use the [editor on GitHub](https://github.com/MetClassNet/metclassnet.org/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
