@@ -1,0 +1,28 @@
+name: "MetClassNet"                                  # CHANGE HERE 
+output_dir: "."
+navbar:
+  title: "MetClassNet"    
+  left:
+    - text: "The Consortium"
+      icon: fa-sitemap
+      href: The-consortium.html
+    - text: "Calendar"
+      icon: fa-calendar
+      href: calendar.html
+    - text: "People"
+      icon: fa-user 
+      href: people.html
+    - text: "Blog"
+      icon: fa-rss
+      href: https://www.metclassnet.org/blog/    # CHANGE HERE 
+  right:
+    - icon: fa-envelope-o
+      href: mailto:contact@metclassnet.org                      # CHANGE HERE 
+    - icon: fa-twitter
+      href: https://twitter.com/hashtag/metclassnet
+    - icon: fa-github
+      href: https://github.com/metclassnet        # CHANGE HERE 
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate

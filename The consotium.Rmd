@@ -1,0 +1,24 @@
+---
+title: "The consortium"
+---
+
+**MetClassNet will propose new solutions to:**
+
+* Identify the unknowns
+
+* fill the gap in existing knowledge
+#
+
+**MetClassNet overall objectives:**
+
+* Develop a novel computational framework to build multilayer networks
+
+* Develop state of art computational solutions exploiting the multilayer topology to
+improve the power of metabolism analysis
+
+* Generate new biological insight by using combined power of the above approaches.
+
+* Liberate the new software solutions and data toward the community.
+
+
+
