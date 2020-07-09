@@ -1,4 +1,4 @@
-name: "MetClassNet"                                  # CHANGE HERE 
+name: "MetClassNet"                                  
 output_dir: "."
 navbar:
   title: "MetClassNet"    
