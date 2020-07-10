@@ -2,41 +2,41 @@
 title: "People"
 ---
 <p align = "left">
-<a href="project/README.md"><img src="project/metclassnet.png" height="100"></a>
+<a href="MCNSticker/project/README.md"><img src="MCNSticker/project/metclassnet.png" height="100"></a>
 </p>
 
 # People part of MetClassNet
 
 **INRA - Toulouse**
 
-<a href="people/README.md"><img src="MetClassNet/MCNSticker/people/fjourdan.png" height="100"></a>
+<a href="MCNSticker/people/README.md"><img src="MCNSticker/people/fjourdan.png" height="100"></a>
 Fabien Jourdan
 
-<a href="people/README.md"><img src="MetClassNet/MCNSticker/people/cfrainay.png" height="100"></a>
+<a href="MCNSticker/people/README.md"><img src="MCNSticker/people/cfrainay.png" height="100"></a>
 Clément Frainay
 
 **HMGU - Munich**
 
-<a href="people/README.md"><img src="MetClassNet/MCNSticker/people/mwitting.png" height="100"></a>
+<a href="MCNSticker/people/README.md"><img src="MCNSticker/people/mwitting.png" height="100"></a>
 Michael Witting
 
-<a href="people/README.md"><img src="MetClassNet/MCNSticker/people/lsalzer.png" height="100"></a>
+<a href="MCNSticker/people/README.md"><img src="MCNSticker/people/lsalzer.png" height="100"></a>
 Liesa Salzer
 
 **IARC - Lyon**
 
-<a href="people/README.md"><img src="MetClassNet/MCNSticker/people/rsalek.png" height="100"></a>
+<a href="MCNSticker/people/README.md"><img src="MCNSticker/people/rsalek.png" height="100"></a>
 Reza Salek
 
-<a href="people/README.md"><img src="MetClassNet/MCNSticker/people/aamara.png" height="100"></a>
+<a href="MCNSticker/people/README.md"><img src="MCNSticker/people/aamara.png" height="100"></a>
 Adam Amara
 
 **IPB - Halle**
 
-<a href="people/README.md"><img src="MetClassNet/MCNSticker/people/sneumann.png" height="100"></a>
+<a href="MCNSticker/people/README.md"><img src="MCNSticker/people/sneumann.png" height="100"></a>
 Steffen Neumann
 
-<a href="people/README.md"><img src="MetClassNet/MCNSticker/people/sscharfenberg.png" height="100"></a>
+<a href="MCNSticker/people/README.md"><img src="MCNSticker/people/sscharfenberg.png" height="100"></a>
 Sarah Scharfenberg
 
 
