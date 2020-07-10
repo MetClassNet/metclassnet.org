@@ -1,23 +1,42 @@
 ---
 title: "People"
 ---
+<p align = "left">
+<a href="project/README.md"><img src="project/metclassnet.png" height="100"></a>
+</p>
 
-**People part of MetClassNet**
+# People part of MetClassNet
 
-* INRA - Toulouse
+**INRA - Toulouse**
 
-    Fabien Jourdan
+<a href="people/README.md"><img src="people/fjourdan.png" height="100"></a>
+Fabien Jourdan
 
-* HMGU - Munich
+<a href="people/README.md"><img src="people/cfrainay.png" height="100"></a>
+Clément Frainay
 
-    Michael Witting
+**HMGU - Munich**
 
-* IARC - Lyon
+<a href="people/README.md"><img src="people/mwitting.png" height="100"></a>
+Michael Witting
 
-    Reza SALEK
+<a href="people/README.md"><img src="people/lsalzer.png" height="100"></a>
+Liesa Salzer
 
-* IPB - Halle
+**IARC - Lyon**
 
-    Steffen Neumann
+<a href="people/README.md"><img src="people/rsalek.png" height="100"></a>
+Reza Salek
+
+<a href="people/README.md"><img src="people/aamara.png" height="100"></a>
+Adam Amara
+
+**IPB - Halle**
+
+<a href="people/README.md"><img src="people/sneumann.png" height="100"></a>
+Steffen Neumann
+
+<a href="people/README.md"><img src="people/sscharfenberg.png" height="100"></a>
+Sarah Scharfenberg
 
 
