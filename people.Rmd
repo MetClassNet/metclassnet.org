@@ -9,34 +9,34 @@ title: "People"
 
 **INRA - Toulouse**
 
-<a href="people/README.md"><img src="people/fjourdan.png" height="100"></a>
+<a href="people/README.md"><img src="MetClassNet/MCNSticker/people/fjourdan.png" height="100"></a>
 Fabien Jourdan
 
-<a href="people/README.md"><img src="people/cfrainay.png" height="100"></a>
+<a href="people/README.md"><img src="MetClassNet/MCNSticker/people/cfrainay.png" height="100"></a>
 Clément Frainay
 
 **HMGU - Munich**
 
-<a href="people/README.md"><img src="people/mwitting.png" height="100"></a>
+<a href="people/README.md"><img src="MetClassNet/MCNSticker/people/mwitting.png" height="100"></a>
 Michael Witting
 
-<a href="people/README.md"><img src="people/lsalzer.png" height="100"></a>
+<a href="people/README.md"><img src="MetClassNet/MCNSticker/people/lsalzer.png" height="100"></a>
 Liesa Salzer
 
 **IARC - Lyon**
 
-<a href="people/README.md"><img src="people/rsalek.png" height="100"></a>
+<a href="people/README.md"><img src="MetClassNet/MCNSticker/people/rsalek.png" height="100"></a>
 Reza Salek
 
-<a href="people/README.md"><img src="people/aamara.png" height="100"></a>
+<a href="people/README.md"><img src="MetClassNet/MCNSticker/people/aamara.png" height="100"></a>
 Adam Amara
 
 **IPB - Halle**
 
-<a href="people/README.md"><img src="people/sneumann.png" height="100"></a>
+<a href="people/README.md"><img src="MetClassNet/MCNSticker/people/sneumann.png" height="100"></a>
 Steffen Neumann
 
-<a href="people/README.md"><img src="people/sscharfenberg.png" height="100"></a>
+<a href="people/README.md"><img src="MetClassNet/MCNSticker/people/sscharfenberg.png" height="100"></a>
 Sarah Scharfenberg
 
 
