@@ -1,0 +1,9 @@
+---
+title: "Welcome to MetClassNet"
+output:
+  html_document:
+    includes:
+      in_header: cover-logo.html
+---
+
+## MetClassNet project website
