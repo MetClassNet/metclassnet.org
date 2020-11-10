@@ -1,0 +1,43 @@
+---
+title: "People"
+---
+
+<h2 id="people" style="text-align: justify">People part of MetClassNet</h2>
+
+<a href="images/map-mcn.png"><img src="images/map-mcn.png"></a>
+
+
+<h3 id="INRA" style="text-align: justify">INRA - Toulouse</h3>
+
+<a href="images/fjourdan.png"><img src="images/fjourdan.png" height="100"></a>
+Fabien Jourdan
+
+<a href="images/enovoa.png"><img src="images/enovoa.png" height="100"></a>
+Elva Novoa
+
+<a href="images/cfrainay.png"><img src="images/cfrainay.png" height="100"></a>
+Clément Frainay
+
+<h3 id="HMGU" style="text-align: justify">HMGU - Munich</h3>
+
+<a href="images/mwitting.png"><img src="images/mwitting.png" height="100"></a>
+Michael Witting
+
+<a href="images/lsalzer.png"><img src="images/lsalzer.png" height="100"></a>
+Liesa Salzer
+
+<h3 id="IARC" style="text-align: justify">IARC - Lyon</h3>
+
+<a href="images/rsalek.png"><img src="images/rsalek.png" height="100"></a>
+Reza Salek
+
+<a href="images/aamara.png"><img src="images/aamara.png" height="100"></a>
+Adam Amara
+
+<h3 id="IPB" style="text-align: justify">IPB - Halle</h3>
+
+<a href="images/sneumann.png"><img src="images/sneumann.png" height="100"></a>
+Steffen Neumann
+
+<a href="images/sscharfenberg.png"><img src="images/sscharfenberg.png" height="100"></a>
+Sarah Scharfenberg
