@@ -1,42 +1,40 @@
 ---
 title: "People"
 ---
-<p align = "left">
-<a href="MCNSticker/project/metclassnet.png"><img src="MCNSticker/project/metclassnet.png" height="100"></a>
-</p>
 
-# People part of MetClassNet
+<h2 id="people" style="text-align: justify">People part of MetClassNet</h2>
 
-**INRA - Toulouse**
+<a href="images/map-mcn.png"><img src="images/map-mcn.png"></a>
 
-<a href="MCNSticker/people/fjourdan.png"><img src="MCNSticker/people/fjourdan.png" height="100"></a>
+
+<h3 id="INRA" style="text-align: justify">INRA - Toulouse</h3>
+
+<a href="images/fjourdan.png"><img src="images/fjourdan.png" height="100"></a>
 Fabien Jourdan
 
-<a href="MCNSticker/people/cfrainay.png"><img src="MCNSticker/people/cfrainay.png" height="100"></a>
+<a href="images/cfrainay.png"><img src="images/cfrainay.png" height="100"></a>
 Clément Frainay
 
-**HMGU - Munich**
+<h3 id="HMGU" style="text-align: justify">HMGU - Munich</h3>
 
-<a href="MCNSticker/people/mwitting.png"><img src="MCNSticker/people/mwitting.png" height="100"></a>
+<a href="images/mwitting.png"><img src="images/mwitting.png" height="100"></a>
 Michael Witting
 
-<a href="MCNSticker/people/lsalzer.png"><img src="MCNSticker/people/lsalzer.png" height="100"></a>
+<a href="images/lsalzer.png"><img src="images/lsalzer.png" height="100"></a>
 Liesa Salzer
 
-**IARC - Lyon**
+<h3 id="IARC" style="text-align: justify">IARC - Lyon</h3>
 
-<a href="MCNSticker/people/rsalek.png"><img src="MCNSticker/people/rsalek.png" height="100"></a>
+<a href="images/rsalek.png"><img src="images/rsalek.png" height="100"></a>
 Reza Salek
 
-<a href="MCNSticker/people/aamara.png"><img src="MCNSticker/people/aamara.png" height="100"></a>
+<a href="images/aamara.png"><img src="images/aamara.png" height="100"></a>
 Adam Amara
 
-**IPB - Halle**
+<h3 id="IPB" style="text-align: justify">IPB - Halle</h3>
 
-<a href="MCNSticker/people/sneumann.png"><img src="MCNSticker/people/sneumann.png" height="100"></a>
+<a href="images/sneumann.png"><img src="images/sneumann.png" height="100"></a>
 Steffen Neumann
 
-<a href="MCNSticker/people/sscharfenberg.png"><img src="MCNSticker/people/sscharfenberg.png" height="100"></a>
+<a href="images/sscharfenberg.png"><img src="images/sscharfenberg.png" height="100"></a>
 Sarah Scharfenberg
-
-
