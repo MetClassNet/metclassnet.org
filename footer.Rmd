@@ -1,0 +1,7 @@
+---
+output: html_document
+---
+&nbsp;
+<hr />
+<p style="text-align: center;">MetClassNet is supported by ANR & DFG under project number ANR-19-CE45-0021 and DFG: 431572533</p>
+&nbsp;
