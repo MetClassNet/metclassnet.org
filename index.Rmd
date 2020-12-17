@@ -6,4 +6,4 @@ output:
       in_header: cover-logo.html
 ---
 
-## MetClassNet project website
+# MetClassNet project website
